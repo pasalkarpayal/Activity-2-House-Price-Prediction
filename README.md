@@ -1,4 +1,4 @@
-Activity 2: Simple House Price Prediction
+# Activity 2: Simple House Price Prediction
 
 1. Objective
 
